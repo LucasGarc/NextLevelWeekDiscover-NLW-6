@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <a href="https://nlw6-discover.herokuapp.com">>>>>>>>> PROJETO FUNCIONANDO <<<<<<<<</a>
+  <a href="">>>>>>>>> PROJETO FUNCIONANDO <<<<<<<<</a>
 </div>
 <br>
 
